@@ -1,0 +1,92 @@
+[33mcommit be649984c1491a40ff4413ee9ae6d6856c4f3357[m[33m ([m[1;36mHEAD -> [m[1;32mfeature/b_is5304[m[33m)[m
+Author: Kostyantin Brayko <brayko.kostyantin@ukr.net>
+Date:   Tue Mar 6 20:28:18 2018 +0200
+
+    Change asteroids to triangle form
+
+[33mcommit 60146add04347168f2050f6d3c5dddf44266c669[m[33m ([m[1;31morigin/feature/a_is5304[m[33m, [m[1;32mfeature/a_is5304[m[33m)[m
+Merge: 14a1344 a8226d5
+Author: Kostyantin Brayko <brayko.kostyantin@ukr.net>
+Date:   Tue Mar 6 19:59:19 2018 +0200
+
+    Change lineWidth of AlienBullet
+
+[33mcommit a8226d53fa7d2458ee2f79f6124bcf953ea10800[m[33m ([m[1;32malternative[m[33m)[m
+Author: Kostyantin Brayko <brayko.kostyantin@ukr.net>
+Date:   Sun Mar 4 15:23:25 2018 +0200
+
+    Add MyFiles.txt from stash
+
+[33mcommit 14a1344e24f5b10b13f78184fcf0127389da38b1[m
+Author: Kostyantin Brayko <brayko.kostyantin@ukr.net>
+Date:   Sun Mar 4 14:14:15 2018 +0200
+
+    Add new files: .gitignore and MARKDOWN
+
+[33mcommit a6a3a9dadb1a3b4759a9985c2e1b8818fc85c978[m[33m ([m[1;31morigin/alternative[m[33m)[m
+Author: Kostyantin Brayko <brayko.kostyantin@ukr.net>
+Date:   Mon Feb 19 21:11:15 2018 +0200
+
+    add brake
+
+[33mcommit 38b941f996d266110e7fded2a866876952c6af5c[m
+Author: Kostyantin Brayko <brayko.kostyantin@ukr.net>
+Date:   Mon Feb 19 21:11:12 2018 +0200
+
+    added all needed staff
+
+[33mcommit c23417b94a2004b6096856f0a371e7a54a830a90[m
+Merge: 194bbbd 3b69f0b
+Author: Kostyantin Brayko <brayko.kostyantin@ukr.net>
+Date:   Mon Feb 19 21:11:08 2018 +0200
+
+    Merge branch 'feature/audio_effects'
+
+[33mcommit 3b69f0bc60da83b5805d05c927911a9dd948ae92[m[33m ([m[1;31morigin/feature/audio_effects[m[33m, [m[1;32mfeature/audio_effects[m[33m)[m
+Author: Kostyantin Brayko <brayko.kostyantin@ukr.net>
+Date:   Mon Feb 19 21:11:07 2018 +0200
+
+    add crash audio file
+
+[33mcommit 928d26fdc95f1cc2b2999cd971a46d8fa0026f06[m
+Author: Kostyantin Brayko <brayko.kostyantin@ukr.net>
+Date:   Mon Feb 19 21:11:03 2018 +0200
+
+    add laser audio
+
+[33mcommit 194bbbda1f60dc07a76c133e1092bc6813956f31[m
+Merge: 7e3076b 3590384
+Author: Kostyantin Brayko <brayko.kostyantin@ukr.net>
+Date:   Mon Feb 19 21:10:47 2018 +0200
+
+    Merge branch 'feature/add_typeface'
+
+[33mcommit 3590384de58c6a3054e31deae0bf50021e4d3122[m[33m ([m[1;31morigin/feature/add_typeface[m[33m, [m[1;32mfeature/add_typeface[m[33m)[m
+Author: Kostyantin Brayko <brayko.kostyantin@ukr.net>
+Date:   Mon Feb 19 21:10:44 2018 +0200
+
+    added glyphs
+
+[33mcommit 7e3076b8bbff97a45a85ccaccbdddf4aebd9cc9f[m
+Author: Kostyantin Brayko <brayko.kostyantin@ukr.net>
+Date:   Mon Feb 19 21:10:41 2018 +0200
+
+    finish all game logic
+
+[33mcommit e2f25705bc1c0d179f7e36c64fa6f538f170381d[m
+Author: Kostyantin Brayko <brayko.kostyantin@ukr.net>
+Date:   Mon Feb 19 21:10:37 2018 +0200
+
+    add ship
+
+[33mcommit b32bcf51338d7b56eb9d3d2bf8523ce9477360b6[m
+Author: Kostyantin Brayko <brayko.kostyantin@ukr.net>
+Date:   Mon Feb 19 21:10:30 2018 +0200
+
+    add sprite part
+
+[33mcommit 4b0be22602d0db3e058eb0ced64ca85f3f17ddfc[m
+Author: Kostyantin Brayko <brayko.kostyantin@ukr.net>
+Date:   Mon Feb 19 21:10:27 2018 +0200
+
+    init commit
